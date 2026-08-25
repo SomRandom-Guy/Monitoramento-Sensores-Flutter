@@ -1,4 +1,4 @@
 # Monitoramento-Sensores-Flutter
-App Flutter do VerdeSmart - Monitoramento de vegetação e sensores em rodovias
+App Flutter do VerdeSmart - Monitoramento de vegetação e sensores em rodovias /n
 Aula dia: 04/08/2026 - Concluída
 Imagens exercico 1:
